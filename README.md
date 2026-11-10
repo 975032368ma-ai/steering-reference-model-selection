@@ -8,7 +8,7 @@ reproducibility code accompanying the manuscript.
 ## Download
 
 Open Releases → v1.0.0 → Assets and download:
-Actuators_Simulation_Data_Code_Formal_20261110.zip
+Actuators_Simulation.zip
 
 Extract the archive and follow the README.md inside it.
 
